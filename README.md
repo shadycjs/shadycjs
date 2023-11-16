@@ -1,4 +1,8 @@
 ### Hola! Mi nombre es Ramiro Unrein 👋
+Me recibí de tecnico informatico en el año 2019, y estoy en busca de
+un nuevo trabajo. Actualmente me estoy capacitando en bases de
+datos y desarrollo web. Me considero una persona responsable y
+ordenada. Buscando mi nueva experiencia laboral.
 <hr>
 <div> 
   <h1>Mis conocimientos></h1>
