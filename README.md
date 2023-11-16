@@ -7,7 +7,7 @@ ordenada. Buscando mi nueva experiencia laboral.
 <div> 
   <h1>Mis conocimientos></h1>
   <ul>
-    <li>PHP ![](https://github.com/shadycjs/shadycjs/blob/main/rami%20full%20facha%203.JPG)</li>
+    <li>PHP</li>
     <li>MySQL</li>
     <li>JavaScript</li>
     <li>CSS</li>
