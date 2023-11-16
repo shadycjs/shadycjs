@@ -7,8 +7,7 @@ ordenada. Buscando mi nueva experiencia laboral.
 <div> 
   <h1>Mis conocimientos></h1>
   <ul>
-    <li>PHP ![elefante php](https://github.com/shadycjs/shadycjs/assets/129355768/78d45596-5c19-49ac-a2c7-11e1b8d48bb9)
-</li>
+    <li>PHP</li>
     <li>MySQL</li>
     <li>JavaScript</li>
     <li>CSS</li>
