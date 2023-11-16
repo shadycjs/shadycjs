@@ -7,7 +7,7 @@ ordenada. Buscando mi nueva experiencia laboral.
 <div> 
   <h1>Mis conocimientos></h1>
   <ul>
-    <li>PHP</li>
+    <li>PHP ![](https://github.com/shadycjs/shadycjs/blob/main/rami%20full%20facha%203.JPG)</li>
     <li>MySQL</li>
     <li>JavaScript</li>
     <li>CSS</li>
@@ -16,14 +16,3 @@ ordenada. Buscando mi nueva experiencia laboral.
 </div>
 <!--
 **shadycjs/shadycjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<div> 
-  <h1>Mis conocimientos</h1>
-  <ul>
-    <li>PHP https://github.com/shadycjs/shadycjs/blob/main/elefante%20php.png </li> 
-    <li>MySQL</li>
-    <li>JavaScript</li>
-    <li>CSS</li>
-    <li>HTML</li>
-  </ul>
-</div>
