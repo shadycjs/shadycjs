@@ -20,7 +20,7 @@ ordenada. Buscando mi nueva experiencia laboral.
 <div> 
   <h1>Mis conocimientos</h1>
   <ul>
-    <li>PHP <img src="https://raw.githubusercontent.com/shadycjs/shadycjs/master/ruta/al/asset/elefante php.png"/></li>
+    <li>PHP <img src="https://github.com/shadycjs/shadycjs/blob/main/elefante%20php.png"/></li>
     <li>MySQL</li>
     <li>JavaScript</li>
     <li>CSS</li>
