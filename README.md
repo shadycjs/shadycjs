@@ -5,7 +5,7 @@ datos y desarrollo web. Me considero una persona responsable y
 ordenada. Buscando mi nueva experiencia laboral.
 <hr>
 <div> 
-  <h1>Mis conocimientos></h1>
+  <h1>Mis conocimientos</h1>
   <ul>
     <li>PHP</li>
     <li>MySQL</li>
