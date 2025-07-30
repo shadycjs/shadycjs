@@ -1,6 +1,6 @@
 ### Hola! Mi nombre es Ramiro Unrein 👋
 Me recibí de tecnico informatico en el año 2019, y actualmente me encuentro trabajando
-como Soporte Analista de Facturación en la empresa Vates S.A.
+como Soporte Analista de Facturación en la empresa EPAM Company.
 <hr>
 <div> 
   <h1>Mis conocimientos</h1>
@@ -12,6 +12,7 @@ como Soporte Analista de Facturación en la empresa Vates S.A.
     <li>HTML</li>
     <li>PL/SQL</li>
     <li>ReactJs</li>
+    <li>C#</li>
   </ul>
 </div>
 <!--
